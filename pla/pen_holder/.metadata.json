@@ -1,0 +1,53 @@
+{
+    "groeVase.gcode": {
+        "statistics": {
+            "averagePrintTime": {
+                "_default": 29567.448686122894
+            },
+            "lastPrintTime": {
+                "_default": 29567.448686122894
+            }
+        },
+        "hash": "49359bf690a7a5e44a1ed555d8ae6c99c5c09318",
+        "analysis": {
+            "estimatedPrintTime": 26935.969233508218,
+            "printingArea": {
+                "maxZ": 114.3,
+                "maxX": 154.88,
+                "maxY": 149.737,
+                "minX": 45.12,
+                "minY": 50.263,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 109.75999999999999,
+                "depth": 99.47399999999999,
+                "height": 114.0
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 59.518254211940295,
+                    "length": 24744.814659997566
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1541978741.439483,
+                "printerProfile": "_default",
+                "success": false
+            },
+            {
+                "timestamp": 1541979596.576816,
+                "printerProfile": "_default",
+                "success": false
+            },
+            {
+                "timestamp": 1542050635.550117,
+                "printTime": 29567.448686122894,
+                "printerProfile": "_default",
+                "success": true
+            }
+        ]
+    }
+}

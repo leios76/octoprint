@@ -1,0 +1,88 @@
+{
+    "screw_and_knurled_knobHD.gcode": {
+        "statistics": {
+            "averagePrintTime": {},
+            "lastPrintTime": {}
+        },
+        "hash": "2f2f66bfc8aa8ccf69d6f28f0a4a4077a431a1cf",
+        "analysis": {
+            "estimatedPrintTime": 2303.4726503308193,
+            "printingArea": {
+                "maxZ": 71.3,
+                "maxX": 114.483,
+                "maxY": 114.48,
+                "minX": 85.52,
+                "minY": 85.52,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 28.963000000000008,
+                "depth": 28.960000000000008,
+                "height": 71.0
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 5.623594388312329,
+                    "length": 2338.018860000002
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1542064526.901311,
+                "printerProfile": "_default",
+                "success": false
+            }
+        ]
+    },
+    "clamp_frame.gcode": {
+        "hash": "d64b701fcd7db27de6f0404c9b8d0892f65f78a5",
+        "analysis": {
+            "estimatedPrintTime": 4302.470428756603,
+            "printingArea": {
+                "maxZ": 19.9,
+                "maxX": 134.003,
+                "maxY": 121.0,
+                "minX": 66.0,
+                "minY": 79.0,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 68.00299999999999,
+                "depth": 42.0,
+                "height": 19.599999999999998
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 10.328630846609784,
+                    "length": 4294.14571
+                }
+            }
+        }
+    },
+    "clamp_protector.gcode": {
+        "hash": "b82f8b72a8c63807a842cf7a40ffb83783cffa79",
+        "analysis": {
+            "estimatedPrintTime": 618.6844345005707,
+            "printingArea": {
+                "maxZ": 7.9,
+                "minX": 84.698,
+                "maxX": 115.302,
+                "maxY": 115.302,
+                "minY": 84.698,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 30.604000000000013,
+                "depth": 30.604000000000013,
+                "height": 7.6000000000000005
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 1.3122864576300473,
+                    "length": 545.5853100000003
+                }
+            }
+        }
+    }
+}
